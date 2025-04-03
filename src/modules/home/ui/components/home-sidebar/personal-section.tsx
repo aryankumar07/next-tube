@@ -1,6 +1,6 @@
 'use client'
 
-import { FlameIcon, HistoryIcon, HomeIcon, ListVideoIcon, PlaySquareIcon, ThumbsUpIcon } from "lucide-react"
+import { HistoryIcon, ListVideoIcon, ThumbsUpIcon } from "lucide-react"
 import Link from 'next/link'
 import {
   SidebarGroup,
